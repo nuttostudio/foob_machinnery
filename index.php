@@ -15,6 +15,8 @@ include'slide.php';
 include'about_us.php';
 include'our_vision.php';
 include'our_products.php';
+include'video.php';
+include'new.php';	
 include'footer.php';
  ?>
 </body>

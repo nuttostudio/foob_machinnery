@@ -11,7 +11,7 @@ img.w-75{
 	margin-top: 5em;
 	margin-left: -2em;
 }
-.carousel{
+.carousel1{
 	background-image: url('../img/bg-slide.png');
 	background-size: cover;
 	height: 500px;
@@ -54,6 +54,19 @@ textarea {
 a.obj-pro:hover{
 	opacity: 0.8;
 }
-.btn-outline-light{
+.btn-outline-light,.btn-outline-dark{
 	border-radius: 2em;
+}
+#vidio-present{
+	background-color: #d7d7d7;
+}
+iframe{
+	border-radius: 1em;
+}
+.card-body{
+	background-color: #9e0b0f;
+	color: #fff;
+}
+a.link-new{
+	color: #fff;
 }

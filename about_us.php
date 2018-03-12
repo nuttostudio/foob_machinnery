@@ -4,9 +4,9 @@
 		<div class="col-sm-12 text-center">
 			Food Machinery Co., Ltd. was founded on 26 July 2005.
 		</div>
-		<div class="col-sm-12 text-center mb-4">
-			<img src="img/txt-about.png" class="w-75">
-			<!-- <p class="m-0">
+		<div class="col-sm-12 text-center mb-4 mt-4">
+			<!-- <img src="img/txt-about.png" class="w-75"> -->
+			<p class="m-0">
 				We have designed and manufactured various kinds of machinery for food industy. We strive to be the leader of food machinery,
 			</p>
 			<p class="m-0">
@@ -20,7 +20,7 @@
 			</p> 
 			<p class="m-0">
 				and international food industry
-			</p> -->
+			</p>
 		</div>
 		<div class="col-sm-8">
 			<img src="img/obj-adout.png" class="w-100">
