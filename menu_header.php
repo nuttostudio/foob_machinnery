@@ -37,20 +37,20 @@
 			</div>
 			<div class="col-lg-12">
 				<ul class="navbar-nav justify-content-end">
-					<li class="nav-item active">
-						<a class="nav-link pr-4" href="#">HOME</a>
+					<li class="nav-item pr-4">
+						<a class="nav-link link-bar" href="./?page=home">HOME</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link pr-4" href="#">ABOUT US</a>
+					<li class="nav-item pr-4">
+						<a class="nav-link link-bar" href="./?page=about">ABOUT US</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link pr-4" href="#">NEWS</a>
+					<li class="nav-item pr-4">
+						<a class="nav-link link-bar" href="./?page=news">NEWS</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link pr-4" href="#">PRODUCT</a>
+					<li class="nav-item pr-4">
+						<a class="nav-link link-bar" href="./?page=product">PRODUCT</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link pr-5" href="#">CONTACT US</a>
+					<li class="nav-item pr-5">
+						<a class="nav-link link-bar" href="./?page=contact">CONTACT US</a>
 					</li>
 				</ul>
 			</div>

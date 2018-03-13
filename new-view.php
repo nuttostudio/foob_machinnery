@@ -13,31 +13,34 @@
 	<?php 
 	include'menu_header.php';
 	include'slide.php';
-	if (isset($_GET['page'])) {
-		if ($_GET['page']=="home") {
-			include'about_us.php';
-			include'our_vision.php';
-			include'our_products.php';
-			include'video.php';
-			include'new.php';
-		}elseif ($_GET['page']=="about") {
-			include'about_us.php';
-			include'after_sales.php';
-		}elseif ($_GET['page']=="news") {
-			include'news_all.php';
-		}elseif ($_GET['page']=="product") {
-			include'our_products.php';
-		}elseif ($_GET['page']=="contact") {
-			include'contact.php';
+	if (isset($_GET['new_id'])) {
+		if ($_GET['new_id']=='1') {
+			?>
+				<div class="container">
+					<div class="row justify-content-md-center">
+						<div class="col-sm-12 text-center mt-5">
+							<h1>PROPAK MYANMAR 2016</h1>
+						</div>
+						<div class="col-sm-12 text-center"> 24TH - 26TH SEPTEMBER 2016</div>
+						<div class="col-sm-10 mt-5">
+							<img src="img/obj-new1.png" class="w-100">
+						</div>
+						<div class="col-sm-12 mt-5 mb-5">
+							รายละเอียด.................................................................
+						</div>
+					</div>
+				</div>
+			<?php
 		}
-	}else{
-		include'about_us.php';
-		include'our_vision.php';
-		include'our_products.php';
-		include'video.php';
-		include'new.php';
+	}else {
+		?>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 mt-5 mb-5 text-center"><h1>ไม่พบข้อมูล</h1></div>
+				</div>
+			</div>
+		<?php
 	}
-	
 	include'footer.php';
 	?>
 </body>
