@@ -32,6 +32,12 @@
 			include'our_products.php';
 		}elseif ($_GET['page']=="contact") {
 			include'contact.php';
+		}elseif ($_GET['page']=="new-view") {
+			include'new-view.php';
+		}elseif ($_GET['page']=="product-group") {
+			include'product_group.php';
+		}elseif ($_GET['page']=="product-view") {
+			include'product_view.php';
 		}
 	}else{
 		include'about_us.php';

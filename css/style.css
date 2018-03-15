@@ -137,3 +137,34 @@ a.link-bar:hover{
 	background-image: url('../img/bg-detail.png');
 	background-size: cover;
 }
+#g-map{
+	background-image: url(../img/bg-map.png);
+	color: #fff;
+}
+#product-group{
+	background-color: #f2f2f2;
+	background-image: url('../img/bg-detail.png');
+	background-size: cover;
+}
+.product-detail{
+	color: #000;
+	background-color: #fff;
+}
+.product-detail:hover{
+	color: #fff;
+	background-color: #9e0b0f;
+}
+
+.product-detail:hover ~ .btn-outline-dark:focus-within{
+	border: 1px solid #fff;
+	color: #fff;
+}
+.btn-outline-dark:hover{
+	border: 1px solid #fff;
+	background: #fff;
+	color: #000;
+}
+#pro-view{
+	background-image:url(../img/bg-proview.png);
+	background-size: cover;
+}

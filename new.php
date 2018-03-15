@@ -21,7 +21,7 @@
 												<h6 class="card-title">PROPAK MYANMAR 2016 : 24TH – 26TH SEPTEMBER 2016 </h6>
 											</div>
 											<div class="col-sm-12 text-right">
-												<a href="" class="link-new">READ MORE >></a>
+												<a href="./?page=new-view&new_id=1" class="link-new">READ MORE >></a>
 											</div>
 											
 										</div>
@@ -35,7 +35,7 @@
 												<h6 class="card-title">PROPAK ASIA 2016 : 15TH – 18TH JUNE 2016</h6>
 											</div>
 											<div class="col-sm-12 text-right">
-												<a href="" class="link-new">READ MORE >></a>
+												<a href="./?page=new-view&new_id=1" class="link-new">READ MORE >></a>
 											</div>
 										</div>
 									</div>
@@ -52,7 +52,7 @@
 												<h6 class="card-title">PROPAK MYANMAR 2016 : 24TH – 26TH SEPTEMBER 2016 </h6>
 											</div>
 											<div class="col-sm-12 text-right">
-												<a href="" class="link-new">READ MORE >></a>
+												<a href="./?page=new-view&new_id=1" class="link-new">READ MORE >></a>
 											</div>
 										</div>
 									</div>

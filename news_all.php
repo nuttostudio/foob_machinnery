@@ -8,7 +8,7 @@
 				NEWS & EVENT FOODMACHINERY THIALAND
 			</div>
 			<div class="col-sm-4 mt-5">
-				<a href="new-view.php?new_id=1">
+				<a href="./?page=new-view&new_id=1">
 					<div class="box-news">
 						<img src="img/obj-new1.png" alt="Avatar" class="image">
 						<div class="overlay">
@@ -18,7 +18,7 @@
 				</a>
 			</div>
 			<div class="col-sm-4 mt-5">
-				<a href="new-view.php?new_id=2">
+				<a href="./?page=new-view&new_id=1">
 					<div class="box-news">
 						<img src="img/obj-new1.png" alt="Avatar" class="image">
 						<div class="overlay">
@@ -28,7 +28,7 @@
 				</a>
 			</div>
 			<div class="col-sm-4 mt-5">
-				<a href="new-view.php?new_id=3">
+				<a href="./?page=new-view&new_id=1">
 					<div class="box-news">
 						<img src="img/obj-new1.png" alt="Avatar" class="image">
 						<div class="overlay">
